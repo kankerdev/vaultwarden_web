@@ -1,8 +1,8 @@
 # Web Vault builds for Vaultwarden
 
-[![GitHub Release](https://img.shields.io/github/release/dani-garcia/bw_web_builds.svg)](https://github.com/dani-garcia/bw_web_builds/releases/latest)
+[![GitHub Release](https://img.shields.io/github/release/kankerdev/vaultwarden_web.svg)](https://github.com/kankerdev/vaultwarden_web/releases/latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/vaultwarden/web-vault.svg)](https://hub.docker.com/r/vaultwarden/web-vault)
-[![GPL-3.0 Licensed](https://img.shields.io/github/license/dani-garcia/bw_web_builds.svg)](https://github.com/dani-garcia/bw_web_builds/blob/master/LICENSE.txt)
+[![GPL-3.0 Licensed](https://img.shields.io/github/license/kankerdev/vaultwarden_web.svg)](https://github.com/kankerdev/vaultwarden_web/blob/master/LICENSE.txt)
 [![Matrix Chat](https://img.shields.io/matrix/vaultwarden:matrix.org.svg?logo=matrix)](https://matrix.to/#/#vaultwarden:matrix.org)
 
 **This project is not associated with the [Bitwarden](https://bitwarden.com/) project nor Bitwarden, Inc.**
@@ -61,7 +61,7 @@ make CONTAINER_CMD=podman container-extract
 For more information see: [Install the web-vault](https://github.com/dani-garcia/vaultwarden/wiki/Building-binary#install-the-web-vault)
 
 ### Pre-build
-The builds are available in the [releases page](https://github.com/dani-garcia/bw_web_builds/releases), and can be replicated with the scripts in this repo.
+The builds are available in the [releases page](https://github.com/kankerdev/vaultwarden_web/releases), and can be replicated with the scripts in this repo.
 
 <br>
 
