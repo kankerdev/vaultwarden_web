@@ -30,6 +30,6 @@ echo "Patching images"
 cp -vfR ../resources/src/* ./apps/web/src/
 
 echo "Using patch: ${PATCH_NAME}"
-git apply "../patches/${PATCH_NAME}" --reject
+git apply "../patches/${PATCH_NAME}" --reject --whitespace=fix
 
 echo "Patching successful!"
