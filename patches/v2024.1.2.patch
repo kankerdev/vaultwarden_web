@@ -640,7 +640,6 @@ index 4293eb9966..7a8e861e8d 100644
      this.onRecoverSelected.emit();
    }
  }
-
 diff --git a/libs/common/src/platform/misc/utils.ts b/libs/common/src/platform/misc/utils.ts
 index e130697143..d91010aa2e 100644
 --- a/libs/common/src/platform/misc/utils.ts
@@ -654,4 +653,3 @@ index e130697143..d91010aa2e 100644
    static readonly DomainMatchBlacklist = new Map<string, Set<string>>([
      ["google.com", new Set(["script.google.com"])],
    ]);
-   
